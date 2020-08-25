@@ -3,8 +3,4 @@
 def fizzbuzz(int)
 int % 3 == # if the number int is divisible by 3
 "Fizz # Go fizz"
-
-
-
-
 end
